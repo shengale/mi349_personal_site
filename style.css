@@ -8,8 +8,10 @@ body {
 h1 {
     font-size: 3em;
     padding: 5px;
-    border: solid #424242;
-    border-style: groove #424242;
+    border-top-style: groove #424242;
+    border-left-style: groove #424242;
+    border-right-style: groove #424242;
+    border-bottom-style: solid #424242;
 }
 
 h2 {
