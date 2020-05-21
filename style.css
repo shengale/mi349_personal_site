@@ -28,7 +28,9 @@ h2 {
 }
 #SWROTS {
     width: 400px;
-    left: 40px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .speaking-scene {
