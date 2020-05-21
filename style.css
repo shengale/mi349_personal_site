@@ -15,7 +15,11 @@ h2 {
     font-size: 3em;
 }
 
-#Movie-Header {
+.AS {
+    color: rgb(19, 179, 228);
+}
+
+#Movie-header {
     color: rgb(228, 214, 20);
     letter-spacing: 1px;
 }
@@ -25,5 +29,5 @@ h2 {
 
 .speaking-scene {
     background: #424242;
-    padding: 8px;
+    padding: 3px;
 }
