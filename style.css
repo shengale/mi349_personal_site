@@ -1,0 +1,29 @@
+body {
+    background: #1D1C1C;
+    color: #ffffff;
+    padding: 50px;
+    font-family: Helvetica;
+}
+
+h1 {
+    font-size: 3em;
+    padding: 5px;
+    border-bottom: 1px solid #ffffff;
+}
+
+h2 {
+    font-size: 2.2em;
+}
+
+#hello {
+    color: red;
+
+}
+#SWROTS {
+    width: 400px;
+}
+
+.burndown {
+    background: #424242;
+    padding: 10px;
+}
