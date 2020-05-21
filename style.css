@@ -9,6 +9,7 @@ h1 {
     font-size: 3em;
     padding: 5px;
     border-bottom: 1px solid #ffffff;
+    border-style: groove;
 }
 
 h2 {
@@ -22,6 +23,7 @@ h2 {
 
 #Movie-header {
     color: rgb(228, 214, 20);
+    font-variant: small-caps;
     letter-spacing: 1px;
 }
 #SWROTS {
