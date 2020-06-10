@@ -74,8 +74,11 @@ h2 {
     border-radius: 5px;
     border: 2px solid rgb(90, 5, 5);
     width: 100%;
-    position: relative;
-    
+    position: relative; 
+}
+
+.box3 > div img{
+    max-width: 400px;
 }
 
 .box4 {
@@ -84,8 +87,11 @@ h2 {
     border-radius: 5px;
     border: 2px solid rgb(79,185,227);
     width: 100%;
-    position: relative;
-    
+    position: relative;   
+}
+
+.box4 > div img{
+    max-width: 400px;
 }
 
 span {
