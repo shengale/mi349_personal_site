@@ -54,6 +54,7 @@ h2 {
     border-radius: 5px;
     background-color:#424242;
     border: 2px solid rgb(90, 5, 5);
+    margin: auto;
 }
 
 .box2 {
@@ -62,4 +63,5 @@ h2 {
     border-radius: 5px;
     background-color:#424242;
     border: 2px solid rgb(79,185,227);
+    margin: auto;
 }
