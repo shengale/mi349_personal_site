@@ -54,6 +54,7 @@ h2 {
     border-radius: 5px;
     background-color:#424242;
     border: 2px solid rgb(90, 5, 5);
+    position: relative;
     text-align: center;
 }
 
@@ -66,3 +67,10 @@ h2 {
     position: relative;
     text-align: center;
 }
+
+span {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+  }
