@@ -46,6 +46,7 @@ h2 {
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 100px 100px;
     grid-gap: 10px;
+    margin-bottom: auto;
 }
 
 .box1 {
@@ -75,7 +76,7 @@ h2 {
 }
 
 #AnakinHate{
-    width: 580px;
+    width: 550px;
     border-radius: 5px;
     border: 2px solid rgb(90, 5, 5);
 }
