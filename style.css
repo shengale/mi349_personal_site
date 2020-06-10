@@ -36,11 +36,15 @@ h2 {
     margin-right: auto;
 }
 
+.speaking-scene {
+    background: #424242;
+    padding: 3px;
+}
+
 .speaking-scene-new {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 100px 100px;
     grid-gap: 10px;
     background: #424242;
-    padding: 3px;
 }
