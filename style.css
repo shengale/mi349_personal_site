@@ -73,6 +73,7 @@ h2 {
     grid-row: 2;
     border-radius: 5px;
     border: 2px solid rgb(90, 5, 5);
+    width: 400px;
     position: relative;
     
 }
@@ -82,6 +83,7 @@ h2 {
     grid-row: 2;
     border-radius: 5px;
     border: 2px solid rgb(79,185,227);
+    width: 400px;
     position: relative;
     
 }
