@@ -36,7 +36,7 @@ h2 {
     margin-right: auto;
 }
 
-.speaking-scene {
+.speaking-scene-new {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 100px 100px;
