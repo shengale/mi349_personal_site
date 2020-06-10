@@ -71,27 +71,25 @@ h2 {
 .box3 {
     grid-column: 1;
     grid-row: 2;
-    border-radius: 5px;
-    border: 2px solid rgb(90, 5, 5);
-    width: 100%;
     position: relative; 
 }
 
 #AnakinHate{
-    width: 600px;
+    width: 580px;
+    border-radius: 5px;
+    border: 2px solid rgb(90, 5, 5);
 }
 
 .box4 {
     grid-column: 3;
     grid-row: 2;
-    border-radius: 5px;
-    border: 2px solid rgb(79,185,227);
-    width: 100%;
     position: relative;   
 }
 
 #ObiBro{
     width: 400px;
+    border-radius: 5px;
+    border: 2px solid rgb(79,185,227);
 }
 
 span {
