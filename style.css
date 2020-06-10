@@ -77,8 +77,8 @@ h2 {
     position: relative; 
 }
 
-.box3 > div img{
-    max-width: 400px;
+#AnakinHate{
+    width: 400px;
 }
 
 .box4 {
@@ -90,8 +90,8 @@ h2 {
     position: relative;   
 }
 
-.box4 > div img{
-    max-width: 400px;
+#ObiBro{
+    width: 400px;
 }
 
 span {
